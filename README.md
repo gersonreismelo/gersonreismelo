@@ -22,7 +22,6 @@
 <div style="display: inline_block">
   <img align="center" alt="CSS3" height="40" width="40" src="https://skillicons.dev/icons?i=css" />
   <img align="center" alt="HTML5" height="40" width="40" src="https://skillicons.dev/icons?i=html" />
-  <img align="center" alt="SASS" height="40" width="40" src="https://skillicons.dev/icons?i=sass" />
   <img align="center" alt="React" height="40" width="40" src="https://skillicons.dev/icons?i=react" />
   <img align="center" alt="TailwindCSS" height="40" width="40" src="https://skillicons.dev/icons?i=tailwind" />
   <img align="center" alt="Node.js" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs" />
